@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: RippleMat
   m_Shader: {fileID: 4800000, guid: 3c90bca9befe09946add111d8a175885, type: 3}
   m_ShaderKeywords: 
@@ -55,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Amount: 0.000019068319
+    - _Amount: 0
     - _BumpScale: 1
     - _CenterX: 858
     - _CenterY: 343
